@@ -1,0 +1,44 @@
+title = "Magis - Web Development"
+baseURL = "https://magisweb.com"
+tags = ["portfolio", "web design"]
+languageCode = "en-US"
+config = "config.toml"
+theme = "osprey"
+canonifyURLS = true
+googleAnalytics = ""
+disqusShortname = ""
+disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
+
+[Params]
+    tagline = "MAGISWEB.COM"
+    author = ""
+    description = "Web application development"
+    logoBig = "/images/logo.png"
+    logoSmall = "/images/logo.png"
+    favicon = ""
+    opengraphImage = ""
+    twitter = ""
+    linkedin = ""
+    github = ""
+    email = "mmordarski@gmail.com"
+    googleTagManager = ""
+    highlightJS = true
+    copyright = true
+    credit = false
+    customCSS = false
+    cacheBustCSS = false
+    cacheBustJS = false
+    ajaxFormspree = true
+
+[[menu.main]]
+    name = "About"
+    url  = "/#about"
+    weight = 1
+[[menu.main]]
+    name = "Work"
+    url = "/#work"
+    weight = 2
+[[menu.main]]
+    name = "Contact"
+    url  = "/#contact"
+    weight = 3
