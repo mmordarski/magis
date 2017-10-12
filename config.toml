@@ -11,7 +11,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
 publishDir = "docs"
 
 [Params]
-    tagline = "MAGISWEB.COM"
+    tagline = "www.MAGISWEB.COM"
     author = ""
     description = "Web application development"
     logoBig = "/images/logo.png"
