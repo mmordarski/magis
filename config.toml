@@ -1,5 +1,5 @@
 title = "Magis - Web Development"
-baseURL = "https://mmordarski.github.io/magis/"
+baseURL = "/"
 tags = ["portfolio", "web design"]
 languageCode = "en-US"
 config = "config.toml"
