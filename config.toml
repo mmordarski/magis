@@ -1,5 +1,5 @@
 title = "Magis - Web Development"
-baseURL = ""
+baseURL = "https://magis.netlify.com"
 tags = ["portfolio", "web design"]
 languageCode = "en-US"
 config = "config.toml"
